@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="authorization">Авторизация</string>
+    <string name="enter_phone_number">ВВЕДИТЕ НОМЕР ТЕЛЕФОНА</string>
+    <string name="get_code">ПОЛУЧИТЬ КОД</string>
+    <string name="confirm">ПОДТВЕРДИТЬ</string>
+    <string name="enter_code">ВВЕДИТЕ КОД</string>
+    <string name="notification">Сейчас система  отправит на Ваш телефон смс-сообщение с кодом для авторизации</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
